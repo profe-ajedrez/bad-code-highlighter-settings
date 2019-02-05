@@ -9,5 +9,10 @@
           "color": "#34495e",
           "tooltip": "Fin Tag Desarrollador Desis"
         },
-
+        {
+            "text": "\\/\\*POR\\s(ANDRÉS|ANDRES)\\ REYES\\s(V.\\s){0,1}EN\\sFECHA\\s[0-9]{1,2}-[0-9]{1,2}-[0-9]{4}\\.\\sMOTIVO\\:\\sREQUERIMIENTO\\s[0-9]+\\*\/",
+            "color": "#f39c12",
+            "tooltip": "Inicio Tag Desarrollador Desis"
+        }
+        //TODO:  color personalizado para el cierre de tag
       ]
