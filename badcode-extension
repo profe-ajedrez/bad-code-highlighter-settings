@@ -1,6 +1,6 @@
-"badCodeHighlighter.highlights": [
+    "badCodeHighlighter.highlights": [
         {
-          "text": "\\/\\*POR\\s[a-zA-ZñÑ]+\\ [a-zA-ZñÑ]+\\sEN\\sFECHA\\s[0-9]{2}-[0-9]{2}-[0-9]{4}\\.\\sMOTIVO:\\sREQUERIMIENTO\\s[0-9]+\\*\/",
+          "text": "\\/\\*POR\\s[a-zA-ZñÑ]+\\ [a-zA-ZñÑ]+\\s([a-zA-ZñÑ\\.]*\\s){0,1}EN\\sFECHA\\s[0-9]{1,2}-[0-9]{1,2}-[0-9]{4}\\.\\sMOTIVO\\:\\sREQUERIMIENTO\\s[0-9]+\\*\/",
           "color": "#34495e",
           "tooltip": "Inicio Tag Desarrollador Desis"
         },
